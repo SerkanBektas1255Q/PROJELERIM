@@ -6,3 +6,4 @@ git github ikinci ders burda gerekli calismalar yapilmali 7.deneme
 git github ikinci ders burda gerekli calismalar yapilmali 8.deneme
 git github ikinci ders burda gerekli calismalar yapilmali 8.deneme
 git github ikinci ders burda gerekli calismalar yapilmali 9.deneme
+git github ikinci ders burda gerekli calismalar yapilmali 10.deneme
